@@ -6,4 +6,3 @@ export const api = createApi({
     tagTypes : ['comments'],
     endpoints : () => ({})
 })
-
